@@ -5,5 +5,5 @@
 def roll
   numbers = Array.new(range(1..6))
   puts numbers
-  return numbers.sample
+  #return numbers.sample
 end
